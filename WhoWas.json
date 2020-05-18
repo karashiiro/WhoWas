@@ -3,7 +3,7 @@
   "Name": "WhoWas",
   "Description": "See who people used to be.",
   "InternalName": "WhoWas",
-  "AssemblyVersion": "0.5.0.0",
+  "AssemblyVersion": "1.0.0.0",
   "RepoUrl": "https://github.com/karashiiro/WhoWas",
   "ApplicableVersion": "any"
 }
